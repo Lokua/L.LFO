@@ -2,7 +2,7 @@
 
 > Device description located at [lokua.net/for-live/L.LFO][lfo]
 
-![screenshot](Screen Shot 2017-01-03 at 5.13.15 AM.png)
+![screenshot](misc/Screen Shot 2017-01-03 at 5.13.15 AM.png)
 
 ---
 

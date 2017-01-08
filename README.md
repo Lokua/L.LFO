@@ -71,14 +71,20 @@ standard Sine, Triangle, Square, Saw, Noise.
 > Note that releases marked as _beta_, _alpha_, or _pre-release_ may not be
 production ready
 
-### v4.1.0-beta
+### v5.0.0-beta
+
++ [L.LFO.amxd](https://github.com/Lokua/L.LFO/releases/download/v5.0.0-beta/L.LFO.amxd)
++ [Source (zip)](https://github.com/Lokua/L.LFO/archive/v5.0.0-beta.zip)
++ [Source (tar.gz)](https://github.com/Lokua/L.LFO/archive/v5.0.0-beta.tar.gz)
+
+<!-- ### v4.1.0-beta
 
 + [L.LFO.amxd](https://github.com/Lokua/L.LFO/releases/download/v4.1.0-beta/L.LFO.amxd)
 + [Source (zip)](https://github.com/Lokua/L.LFO/archive/v4.1.0-beta.zip)
 + [Source (tar.gz)](https://github.com/Lokua/L.LFO/archive/v4.1.0-beta.tar.gz)
 
 ### v3.2.0 (legacy)
-+ [zip](https://s3.amazonaws.com/lokua.net.for-live/L.LFO/3.2.0/L.LFO.v3.2.0.zip)
++ [zip](https://s3.amazonaws.com/lokua.net.for-live/L.LFO/3.2.0/L.LFO.v3.2.0.zip) -->
 
 ---
 
